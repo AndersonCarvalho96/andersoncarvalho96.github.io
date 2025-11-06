@@ -2,7 +2,7 @@
 title: "🏋️‍♂️ Olympia Shape (Treino e Dieta App)"
 collection: projects
 permalink: /project/olympia-shape/
-excerpt: "Aplicativo de gerenciamento de treinos e dietas, voltado para usuários que desejam acompanhar seus exercícios físicos e alimentação de forma simples, organizada e intuitiva.<br/><img src='/images/tela inicial.png'>"
+excerpt: "Aplicativo de gerenciamento de treinos e dietas, voltado para usuários que desejam acompanhar seus exercícios físicos e alimentação de forma simples, organizada e intuitiva.<br/><img src='/images/tela inicial.jpg'>"
 
 tags:
   - Flutter
@@ -55,19 +55,21 @@ O código segue uma arquitetura modular, facilitando manutenção e futuras expa
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 10px;
-  margin: 20px 0;
+  gap: 8px;
+  margin: 20px auto;
+  max-width: 100%;
 ">
-  <img src="/images/tela inicial.jpg" alt="Tela inicial do app" style="width: 280px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  <img src="/images/tela inicial treino.jpg" alt="Tela inicial de treinos" style="width: 280px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  <img src="/images/tela treino.jpg" alt="Tela de treino" style="width: 280px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  <img src="/images/tela exercicio.jpg" alt="Tela de adicionar exercício" style="width: 280px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  <img src="/images/tela categoria.jpg" alt="Tela de categoria de exercícios" style="width: 280px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  <img src="/images/tela selecionar categoria.jpg" alt="Tela depois de selecionar categoria" style="width: 280px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  <img src="/images/tela selecionar exercicio.jpg" alt="Tela de exercícios disponíveis" style="width: 280px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  <img src="/images/tela dieta.jpg" alt="Tela inicial dieta" style="width: 280px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
-  <img src="/images/tela adicionar item.jpg" alt="Tela adicionar item" style="width: 280px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  <img src="/images/tela inicial.jpg" alt="Tela inicial do app" style="width: 30%; min-width: 200px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); object-fit: cover;">
+  <img src="/images/tela inicial treino.jpg" alt="Tela inicial de treinos" style="width: 30%; min-width: 200px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); object-fit: cover;">
+  <img src="/images/tela treino.jpg" alt="Tela de treino" style="width: 30%; min-width: 200px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); object-fit: cover;">
+  <img src="/images/tela exercicio.jpg" alt="Tela de adicionar exercício" style="width: 30%; min-width: 200px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); object-fit: cover;">
+  <img src="/images/tela categoria.jpg" alt="Tela de categoria de exercícios" style="width: 30%; min-width: 200px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); object-fit: cover;">
+  <img src="/images/tela selecionar categoria.jpg" alt="Tela depois de selecionar categoria" style="width: 30%; min-width: 200px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); object-fit: cover;">
+  <img src="/images/tela selecionar exercicio.jpg" alt="Tela de exercícios disponíveis" style="width: 30%; min-width: 200px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); object-fit: cover;">
+  <img src="/images/tela dieta.jpg" alt="Tela inicial dieta" style="width: 30%; min-width: 200px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); object-fit: cover;">
+  <img src="/images/tela adicionar item.jpg" alt="Tela adicionar item" style="width: 30%; min-width: 200px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.25); object-fit: cover;">
 </div>
+
 
 ---
 ## Código no GitHub
