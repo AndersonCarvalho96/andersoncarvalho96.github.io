@@ -2,7 +2,7 @@
 title: "🏋️‍♂️ Olympia Shape (Treino e Dieta App)"
 collection: projects
 permalink: /project/olympia-shape/
-excerpt: "Aplicativo de gerenciamento de treinos e dietas, voltado para usuários que desejam acompanhar seus exercícios físicos e alimentação de forma simples, organizada e intuitiva.<br/><img src='/images/tela inicial.jpg' style='heigh:940px'>"
+excerpt: "Aplicativo de gerenciamento de treinos e dietas, voltado para usuários que desejam acompanhar seus exercícios físicos e alimentação de forma simples, organizada e intuitiva.<br/><div style='text-align:center;'><img src='/images/tela inicial.jpg' style='width:300px; height:auto; border-radius:10px;'></div>"
 
 tags:
   - Flutter
