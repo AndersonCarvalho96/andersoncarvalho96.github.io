@@ -11,6 +11,7 @@ redirect_from:
 
 ## Formação Acadêmica
 ======
+* **Fundação Bradesco - Microsoft Excel 2016 – Do Básico ao Avançado — 65 horas** (Básico: 15h | Intermediário: 20h | Avançado: 30h)
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas**, Faculdade de Educação Tecnológica do Estado do Rio de Janeiro Fernando Mota (FAETERJ-RIO), 2018 - 2024 (concluído)
 * **Curso de Python para Machine Learning e Ciência de Dados**, Didática Tech, 2023
 * **Database Programming with SQL**, Oracle Academy 2021
