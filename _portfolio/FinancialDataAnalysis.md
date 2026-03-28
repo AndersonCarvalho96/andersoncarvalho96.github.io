@@ -3,6 +3,7 @@ title: "📊 Financial Data Analysis (Dashboard de Gestão)"
 collection: projects
 permalink: /projects/financial-analysis/
 excerpt: "Dashboard interativo para análise de transações financeiras, métricas contábeis e KPIs operacionais."
+date: 2026/02/23
 tags:
   - Python
   - Pandas
