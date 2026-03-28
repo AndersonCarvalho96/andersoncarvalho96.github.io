@@ -3,6 +3,7 @@ title: "Projeto Gerenciamento de Clientes"
 excerpt: "Sistema de Cadastro, Leitura, Atualização e Exclusão (CRUD) de clientes, desenvolvido com o framework Django para gerenciamento de informações dos clientes de forma simples e eficaz.<br/><img src='/images/gerenciador_clientes.png'>"
 collection: projects
 permalink: /projects/GerenciamentoClientes/
+date: 2024/08/30
 ---
 
 ## Descrição
