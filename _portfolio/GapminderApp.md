@@ -3,6 +3,7 @@ title: "🌍 Gapminder App (Explorador de Dados Globais)"
 collection: projects
 permalink: /projects/gapminder-app/
 excerpt: "Análise interativa de expectativa de vida, PIB per capita e população ao longo do tempo."
+date: 2026/01/20
 tags:
   - Python
   - Plotly
