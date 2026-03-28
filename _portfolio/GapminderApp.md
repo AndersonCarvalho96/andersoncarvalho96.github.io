@@ -1,7 +1,7 @@
 ---
 title: "🌍 Gapminder App (Explorador de Dados Globais)"
 collection: projects
-permalink: /project/gapminder-app/
+permalink: /projects/gapminder-app/
 excerpt: "Análise interativa de expectativa de vida, PIB per capita e população ao longo do tempo."
 tags:
   - Python
