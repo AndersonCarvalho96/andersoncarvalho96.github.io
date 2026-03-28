@@ -3,6 +3,7 @@ title: "🏢 Onboarding Automation & CRM (Gestão de Fluxo)"
 collection: projects
 permalink: /projects/onboarding-automation/
 excerpt: "Plataforma de automação para entrada de novos clientes, com validação de CNPJ via API e monitoramento de SLA."
+date: 2026/03/28
 tags:
   - Python
   - Streamlit
