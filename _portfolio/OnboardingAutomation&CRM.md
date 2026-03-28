@@ -1,7 +1,7 @@
 ---
 title: "🏢 Onboarding Automation & CRM (Gestão de Fluxo)"
 collection: projects
-permalink: /project/onboarding-automation/
+permalink: /projects/onboarding-automation/
 excerpt: "Plataforma de automação para entrada de novos clientes, com validação de CNPJ via API e monitoramento de SLA."
 tags:
   - Python
